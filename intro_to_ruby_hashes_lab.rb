@@ -39,6 +39,7 @@ monopoly = {
 	    {
 	      :reading_railroad => {},
 	      :pennsylvania_railroad => {}
+	      
 	    }, 
 	    :rent_in_dollars => 
 	    {
