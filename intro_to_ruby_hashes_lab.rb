@@ -38,6 +38,7 @@ monopoly = {
 	    :names => 
 	    {
 	      :reading_railroad => {}
+	      
 	    }, 
 	    :rent_in_dollars => 
 	    {
