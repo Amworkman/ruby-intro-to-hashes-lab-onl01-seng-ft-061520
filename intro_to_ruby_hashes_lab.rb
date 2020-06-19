@@ -62,7 +62,7 @@ monopoly = {
 	    :pieces => 4,
 	    :names => 
 	    {
-	      :reading_railroad => {},
+	      :reading_railroad => {mortgage_value:},
 	      :pennsylvania_railroad => {},
 	      :b_and_o_railroad => {},
 	      :shortline => {}
